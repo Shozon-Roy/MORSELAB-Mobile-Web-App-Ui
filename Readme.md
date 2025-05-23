@@ -41,14 +41,12 @@ MORSELAB is a pixel-perfect, mobile-first Morse code learning app designed for t
 **Shozon Roy**
 
 - [GitHub](https://github.com/shozon-roy)
-- [LinkedIn](https://www.linkedin.com/in/shozon-roy/)
-- [Email](mailto:shozonroy@gmail.com)
+- [Email](mailto:devshozon999@gmail.com)
 
 ## Credits
 
 - **Background and UI inspiration**: Shozon Roy
 - **Bootstrap Icons**: [https://icons.getbootstrap.com/](https://icons.getbootstrap.com/)
-- **Image hosting**: [Postimg](https://postimg.cc/)
 
 ---
 
