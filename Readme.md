@@ -10,7 +10,7 @@ MORSELAB is a pixel-perfect, mobile-first Morse code learning app designed for t
 - **Splash Screen**: Three animated onboarding slides with swipeable dots and a drag-to-unlock "Start" button.
 - **Home Page**: Progress indicators, feature cards, and a fixed bottom navigation, all styled to match a native app.
 
-![Preview Screen](#)
+![Preview Screen](https://raw.githubusercontent.com/Shozon-Roy/MORSELAB-Mobile-Web-App-Ui/refs/heads/main/20250523_151820.jpg)
 
 
 ## Overview
@@ -25,7 +25,7 @@ MORSELAB is a pixel-perfect, mobile-first Morse code learning app designed for t
 
 ## Live Demo
 
-[🔗 Live Link (Demo)](#)  
+[🔗 Live Link (Demo)](https://webappmorselab.vercel.app/)  
 
 
 
